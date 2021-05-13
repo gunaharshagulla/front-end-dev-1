@@ -40,7 +40,7 @@ h3{
      font-weight:800;     
      height: 250px; 
       line-height: 35px;
-      cursor: pointer;
+      
   }
   img{
     width: 300px;
@@ -69,6 +69,7 @@ h3{
     font-size: 25px;
      font-weight:800;
      border: none;
+     cursor: pointer;
 }
 button:hover {
     background-color: green;
